@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Rahul
 
-<!--
-**Rahul-rax-cyber/Rahul-rax-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- Python
+- Data Structures & Algorithms
+- Full-Stack Development
+- AI & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 2026 Goals
+- Build 10+ Real-World Projects
+- Contribute to Open Source
+- Publish a Research Paper
+- Crack a 6+ LPA Software Engineer Role
+
+📚 Current Challenge
+🚀 #100DaysOfCode
+
+> "Learning one day at a time."
