@@ -1,20 +1,27 @@
-# Hi 👋, I'm Rahul
+# 👋 Hi, I'm Rahul
 
-🎓 Final Year Computer Science Engineering Student
+### 🐧 CSE Student | Linux & Infrastructure | Networking | Cloud & DevOps
 
-💻 Currently Learning
-- Python
-- Data Structures & Algorithms
-- Full-Stack Development
-- AI & Machine Learning
+I'm a Computer Science Engineering student building my career in
+**IT Infrastructure → Cloud → DevOps** through consistent hands-on practice.
 
-🎯 2026 Goals
-- Build 10+ Real-World Projects
-- Contribute to Open Source
-- Publish a Research Paper
-- Crack a 6+ LPA Software Engineer Role
+I believe:
 
-📚 Current Challenge
-🚀 #100DaysOfCode
+> 🎓 Certificates prove completion.
+> 💻 Hands-on practice builds skill.
+> 🔥 Troubleshooting builds engineering ability.
 
-> "Learning one day at a time."
+---
+
+## 🎯 Career Goal
+
+```text
+Linux / Infrastructure Support
+        ↓
+Network / Cloud Support
+        ↓
+Cloud Engineer
+        ↓
+DevOps / SRE
+        ↓
+Senior Cloud / DevOps Engineer
