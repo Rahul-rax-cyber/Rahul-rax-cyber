@@ -131,7 +131,7 @@
 
 <p align="center">
 
-### ⚡ 80% Hands-on Practice + 20% Notes + 0% Passive Video
+   ⚡ 80% Hands-on Practice + 20% Notes + 0% Passive Video
 
 </p>
  🔄 My Workflow
