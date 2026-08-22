@@ -49,20 +49,43 @@
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:rahulcs399651@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Email-rahulcs399651%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://www.linkedin.com/in/rj1215-rahul143/">
-<img src="https://img.shields.io/badge/LinkedIn-Rahul%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://in.linkedin.com/in/rj1215-rahul143">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Rahul%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Rahul-rax-cyber">
-<img src="https://img.shields.io/badge/GitHub-Rahul--rax--cyber-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/💻%20GitHub-Rahul--rax--cyber-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </p>
 
+<p align="center">
+
+<a href="mailto:rahulcs399651@gmail.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Let's+Connect+%F0%9F%91%8B;Open+to+Learning+%26+Collaboration;Linux+%7C+Cloud+%7C+DevOps" alt="Contact Animation"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="mailto:rahulcs399651@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/>
+</a>
+
+<a href="https://in.linkedin.com/in/rj1215-rahul143">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<a href="https://github.com/Rahul-rax-cyber">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+</a>
+
+</p>
 ---
 
 ## 🤝 Open to Collaborate
