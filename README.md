@@ -32,21 +32,63 @@
 
 ## 👨‍💻 About Me
 
-I’m **Rahul A**, a **4th-year Computer Science Engineering student based in India**, building practical skills for a career in **IT Infrastructure, Cloud Computing, and DevOps**.
-
-### 🎯 Current Target Roles
-
-- 🐧 Linux Support Engineer
-- 🌐 NOC Engineer
-- 🖥️ Infrastructure Support Engineer
-
-### 🚀 Long-Term Career Path
-
-**Linux & Infrastructure → Cloud Support → Cloud Engineer → DevOps / SRE**
-
-I use GitHub to document my **hands-on labs, troubleshooting exercises, automation experiments, infrastructure projects, and learning progress**.
+- 👤 **Name:** Rahul A
+- 🎓 **Education:** 4th-Year Computer Science Engineering Student
+- 🇮🇳 **Location:** India
+- 🐧 **Current Focus:** Linux Administration & IT Infrastructure
+- 🌐 **Core Interests:** Networking, Cloud Computing & DevOps
+- 🎯 **Target Roles:** Linux Support Engineer, NOC Engineer, Infrastructure Support Engineer
+- 🚀 **Long-Term Goal:** Cloud Engineer, DevOps, SRE / Platform Engineer
+- 📚 **Current Journey:** 100-Day Linux Administration & Infrastructure
+- 🛠️ **Learning Style:** 80% Hands-on + 20% Notes + 0% Passive Video
+- 🔄 **Workflow:** Learn → Practice → Troubleshoot → Fix → Verify → Document
 
 ---
+
+## 📫 Contact Me
+
+<p align="center">
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rj1215-rahul143/">
+<img src="https://img.shields.io/badge/LinkedIn-Rahul%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Rahul-rax-cyber">
+<img src="https://img.shields.io/badge/GitHub-Rahul--rax--cyber-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</p>
+
+---
+
+## 🤝 Open to Collaborate
+
+- 🐧 Linux Administration Projects
+- 🌐 Networking Labs
+- ☁️ Cloud Infrastructure
+- 🐳 Docker Projects
+- ☸️ Kubernetes Projects
+- 🚀 DevOps Automation
+- 🔧 Infrastructure Troubleshooting
+- 📦 Open-Source Projects
+
+---
+
+## 💬 Ask Me About
+
+- Linux Administration
+- Linux Filesystem & FHS
+- Users, Groups & Permissions
+- Processes & Services
+- Networking Fundamentals
+- Git & GitHub
+- Infrastructure Troubleshooting
+- Cloud Fundamentals
+- My 100-Day Linux Journey
 
 ### Skills
 <p align="left">
