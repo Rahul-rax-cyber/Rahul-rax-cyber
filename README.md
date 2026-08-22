@@ -28,8 +28,6 @@
   </a>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 - 👤 **Name:** Rahul A
